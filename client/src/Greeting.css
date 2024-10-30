@@ -1,0 +1,12 @@
+.greeting {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #d62828;
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
